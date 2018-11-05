@@ -1,6 +1,6 @@
 # Interaction Dynamics of Hate and Counter speakers on Twitter
 
-In this [Paper](https://easychair.org/conferences/submission.cgi?submission=4093468;a=20231343) we perform  several __lexical, linguistic and psycholinguistic__ analysis on various characteristics of users involved in a tweet-reply conversation in order to study the involved behavioral complexities.
+In this paper([Abstract](https://easychair.org/conferences/submission.cgi?submission=4093468;a=20231343)) we perform  several __lexical, linguistic and psycholinguistic__ analysis on various characteristics of users involved in a tweet-reply conversation in order to study the involved behavioral complexities.
 
 * We are planning to public the dataset once our paper is [selected](https://www2019.thewebconf.org/).
 
