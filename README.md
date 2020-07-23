@@ -8,4 +8,4 @@ In this [Paper](https://dl.acm.org/doi/abs/10.1145/3371158.3371172) we perform  
 
 * Please attend to each of the Ipynb files for understanding the details of our analysis, they are specifically documented for that.
 
-* Note that this is __not__ the official page for our paper but if you are interested in our full work, please email me at navish.iitkgp@gmail.com for further craving. 
+* Please note that this is __not__ the official page for our paper. 
