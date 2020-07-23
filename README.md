@@ -1,6 +1,6 @@
-# Analyzing the hate and counter speech accounts on Twitter
+# Interaction dynamics between hate and counter users on Twitter
 
-In this [Paper](https://arxiv.org/pdf/1812.02712.pdf) we perform  several __lexical, linguistic and psycholinguistic__ analysis on various characteristics of users involved in a tweet-reply conversation in order to study the involved behavioral complexities.
+In this [Paper](https://dl.acm.org/doi/abs/10.1145/3371158.3371172) we perform  several __lexical, linguistic and psycholinguistic__ analysis on various characteristics of users involved in a tweet-reply conversation in order to study the involved behavioral complexities.
 
 * We are planning to public the dataset once our paper is __selected__.
 
